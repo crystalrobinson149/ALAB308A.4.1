@@ -9,6 +9,5 @@ Code repo for RTT-60-2024 cohort.
  - HTML
  - CSS
  - JS
- - React
+ - Axios
  - NodeJS
- - Bootstrap
