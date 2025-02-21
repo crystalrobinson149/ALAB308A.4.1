@@ -2,7 +2,7 @@
 
 
 ## Description
-Code repo for RTT-60-2024 cohort.
+Working with External Data.
 
 
 ### Technologies
